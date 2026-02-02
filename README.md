@@ -1,6 +1,6 @@
 # Trading-PnL-Analysis-Kite-Python
 Data analysis project to calculate, validate, and summarize trading Profit &amp; Loss (PnL) using Kite trade data and Python.
-# Trading PnL Analysis – Kite Data
+# Trading PnL Analysis
 
 ## Project Context
 In trading and investment workflows, accurately tracking **Profit and Loss (PnL)** is critical for performance evaluation, risk management, and decision-making.  
